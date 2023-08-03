@@ -4,4 +4,4 @@ In the project, three algorithms are selected to train the same dataset. The pre
 Through Logistic Regression when two out of three evaluation indices exceed 0.8 and are the highest among the three models. Meanwhile, Naive Bayes has a relatively poor performance.
 Testing accuracy is lower than training accuracy in all models. That means I overcame overfitting: there are meaningful differences between the data I train the model on and the testing data I provide for evaluation.
 
-![Screenshot](https://github.com/Berkayerdogantoronto/FlightDelaysPrediction/assets/141277627/f6f45466-99aa-4a18-aad1-6cff4c71b579)
+https://github.com/Berkayerdogantoronto/FlightDelaysPrediction/assets/141277627/f6f45466-99aa-4a18-aad1-6cff4c71b579
