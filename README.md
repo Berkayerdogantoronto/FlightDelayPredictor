@@ -1,6 +1,11 @@
 # Flight Delays Prediction
 ## Problem Statement
 The aim of this project is to develop a predictive model that can effectively identify flight delays for commercial flights departing from the Washington, D.C. region and arriving in New York during the month of January 2004. A flight is considered delayed if its arrival is at least 15 minutes later than expected. The project involves data preprocessing, exploration, and model building to achieve this goal.
+## Business Impact
+* Airlines can use this predictive model to proactively manage flight schedules and resources. By identifying potential delays, they can make real-time adjustments to minimize disruptions, such as reassigning crews or aircraft, optimizing routes, and enhancing overall operational efficiency.
+* Passengers benefit from accurate predictions of flight delays. When passengers are informed in advance about possible delays, they can adjust their travel plans, reducing stress and inconvenience. 
+* This project promotes a data-driven approach to managing flight operations. Airlines can leverage historical and real-time data to make informed decisions, enhancing their overall decision-making processes.
+* Adhering to flight delay regulations and minimizing delays can help airlines avoid regulatory fines and penalties.
 
 
 ## Data Preprocessing 
