@@ -13,14 +13,10 @@ All commercial flights that departed the Washington, D.C., region and arrived in
 *. Naïve Bayes (NB) model. 
 * Classification and Regression Tree (CART): 
 * Logistic Regression.
-  
-## Use Testing Data
+* Real-Time Prediction  
 
-I Made up five new rows (instances) of data and store them in a new file
-“FlightDelaysTestingData.csv”.
 ## Conclusion 
-I used the confusion matrix method to generate an array, which shows the number of True Positive, False Positive, True Negative and False Negative. Using those factors, I computed the most important statistics to 
-measure the performance of our models. I am aware that there is no perfect machine-learning algorithm. It is essential to test alternative algorithms for this reason.  
-In the project, three algorithms are selected to train the same dataset. The prediction results are shown in Figure 1. The best outcome is displayed.
-Through Logistic Regression when two out of three evaluation indices exceed 0.8 and are the highest among the three models. Meanwhile, Naive Bayes has a relatively poor performance.
-Testing accuracy is lower than training accuracy in all models. That means I overcame overfitting: there are meaningful differences between the data I train the model on and the testing data I provide for evaluation.
+* In this project, we used three different machine-learning algorithms to predict flight delays. We evaluated the performance of these algorithms using confusion matrices, which helped us measure the number of True Positives, False Positives, True Negatives, and False Negatives.
+* Our goal was to select the best-performing algorithm. Among the three models we tested, Logistic Regression stood out. It achieved the highest scores in two out of three evaluation metrics, with values exceeding 0.8.
+* One important finding is that all models showed lower testing accuracy compared to training accuracy. This suggests that our models are not overfitting, and they can handle differences between the training and testing data effectively.
+* Overall, Logistic Regression appears to be the most suitable algorithm for predicting flight delays in this dataset, offering promising results in terms of accuracy and performance. However, we remain open to testing alternative algorithms to further improve our predictions.
