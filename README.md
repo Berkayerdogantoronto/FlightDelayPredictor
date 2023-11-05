@@ -1,5 +1,6 @@
 # Flight Delays Prediction
-All commercial flights that departed the Washington, D.C., region and arrived in New York in January 2004 are listed in the FlightDelays.csv file.  Whether a flight is delayed is the variable that we are attempting to predict. An arrival that is at least 15 minutes later than expected is considered a delay. 
+## Problem Statement
+The aim of this project is to develop a predictive model that can effectively identify flight delays for commercial flights departing from the Washington, D.C. region and arriving in New York during the month of January 2004. A flight is considered delayed if its arrival is at least 15 minutes later than expected. The project involves data preprocessing, exploration, and model building to achieve this goal.
 
 
 ## Data Preprocessing 
